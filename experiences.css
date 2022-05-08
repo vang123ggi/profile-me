@@ -1,0 +1,44 @@
+/* CSS files --> experiences.html */
+body{
+    background-color: #A5DEE5;
+}
+.table-menu{
+    width:100%; 
+    text-align: center;
+    background-color: #E0F9B5;
+}
+h1{
+    text-align: center; 
+    font-family: cursive;
+    background-color: #E0F9B5;
+} 
+h4{
+    text-align: center; 
+    font-family: Aclonica; 
+    font-weight: normal;
+}
+h5{ 
+    text-align: center; 
+    font-family: Aclonica; 
+    font-weight: normal;
+}
+.table-content{
+    margin-left: auto; 
+    margin-right: auto;
+    background-color: #E0F9B5;
+}
+.ul-circle{
+    list-style-type:circle;
+    background-color: #FFCFDF;
+} 
+.ul-disc{
+    list-style-type:disc;
+    background-color: #FFCFDF;
+}
+.ul-square{
+    list-style-type:square;
+    background-color: #FFCFDF;
+}
+.ol-order{
+    background-color: #FFCFDF;
+}
